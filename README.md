@@ -4,6 +4,8 @@
 
 Our project leverages data analysis and machine learning techniques to predict customer churn in a wealth management platform, enabling proactive retention strategies and enhancing financial service efficiency.
 
+**Project Link on Devpost:** [Retain'Em: IIS Ltd. Customer Churn Prediction](https://devpost.com/software/retain-em-iis-ltd-customer-churn-prediction)
+
 ---
 
 ## Table of Contents
@@ -124,5 +126,3 @@ The CxC Hackathon workshops were invaluable for navigating these challenges and 
 - **Srishti Prayag** – Data Visualization & Insights
 
 ---
-
-**Project Link on Devpost:** [Retain'Em: IIS Ltd. Customer Churn Prediction](https://devpost.com/software/retain-em-iis-ltd-customer-churn-prediction)
