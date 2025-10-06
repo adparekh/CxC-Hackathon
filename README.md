@@ -108,7 +108,7 @@ The CxC Hackathon workshops were invaluable for navigating these challenges and 
 
 ---
 
-## What's next for Retain'Em
+## What's next
 
 - Conduct deeper exploratory analysis on model predictions.  
 - Refine marketing strategies based on nuanced patterns identified.  
