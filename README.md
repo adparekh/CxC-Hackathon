@@ -2,6 +2,8 @@
 
 [![Hackathon Project](https://img.shields.io/badge/Hackathon-CxC-blue)](https://devpost.com/software/retain-em-iis-ltd-customer-churn-prediction)
 
+![Hackathon Project Banner](assets/hackathon.jpeg)
+
 Our project leverages data analysis and machine learning techniques to predict customer churn in a wealth management platform, enabling proactive retention strategies and enhancing financial service efficiency.
 
 **Project Link on Devpost:** [Retain'Em: IIS Ltd. Customer Churn Prediction](https://devpost.com/software/retain-em-iis-ltd-customer-churn-prediction)
@@ -120,9 +122,9 @@ The CxC Hackathon workshops were invaluable for navigating these challenges and 
 
 ## Team
 
-- **Aditya Parekh** – Data preprocessing, XGBoost modeling, analysis  
-- **Aditya Mani** – Data Cleaning & Feature Engineering  
-- **Jithin Krishna** – Model Development & Evaluation  
+- **Aditya Parekh** (Me) – Data preprocessing, XGBoost modeling, analysis  
+- **[Aditya Mani](https://github.com/adimani)** – Data Cleaning & Feature Engineering  
+- **[Jithin Krishna](https://github.com/jithin75)** – Model Development & Evaluation  
 - **Srishti Prayag** – Data Visualization & Insights
 
 ---
